@@ -1,6 +1,7 @@
 {
   "name": "reconnecting-websocket",
   "version": "2.1.0",
+  "main": "reconnecting-websocket.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/daviddoran/typescript-reconnecting-websocket.git"
