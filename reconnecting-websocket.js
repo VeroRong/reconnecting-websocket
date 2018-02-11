@@ -112,7 +112,5 @@ var ReconnectingWebSocket = (function () {
     return ReconnectingWebSocket;
 })();
 
-
 module.exports = ReconnectingWebSocket;
-
 //# sourceMappingURL=reconnecting-websocket.js.map
